@@ -36,6 +36,10 @@ This project implements an I2C master using bit-banging (software control) over 
 • `#I2C` • `#BitBanging` • `#ESP8266` • `#Arduino`  • `#SoftwareI2C` • `#LowLevelI2C`  
 • `#SoftwareI2C` • `#LogicAnalyzer` • `#Embedded` • `#Microcontroller` • `#GPIO`  
 ##
+### 👥 Contributors
+- 🧑‍💻 [@prajansrini](https://github.com/prajansrini)  
+- 🧑‍💻 [@Prithviraj-Bidave](https://github.com/Prithviraj-Bidave)
+##
 ### 📢 Note
 This software I2C driver has been tested and validated only on the ESP8266 platform.  
 If you're using a different microcontroller (e.g. STM32, ATmega, RP2040), you will need to modify the code, including timing logic and pin control, to ensure compatibility with your board's architecture and behavior.  
